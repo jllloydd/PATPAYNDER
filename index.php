@@ -4,19 +4,14 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!-- Tell the browser to be responsive to screen width -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>PathFinder</title>
-    <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
-    <!-- Custom CSS -->
     <link href="dist/css/style.min.css" rel="stylesheet">
 </head>
 
 <body>
-    <!-- ============================================================== -->
-    <!-- Preloader - style you can find in spinners.css -->
-    <!-- ============================================================== -->
+
     <div class="preloader">
         <div class="lds-ripple">
             <div class="lds-pos"></div>
@@ -26,12 +21,11 @@
     
             <div class="container-fluid" style="margin-top:100px">
                 
-                <!-- Row -->
                 <div class="row">
 
                 <div class="col-lg-4 offset-lg-4">
 </div>
-                    <!-- Column -->
+
                     <div class="col-lg-4 offset-lg-4">
                         <div class="card">
                             <div class="card-body">
@@ -68,21 +62,15 @@
                             </div>
                         </div>
                     </div>
-                    <!-- Column -->
+
                 </div>
             </div>
-    <!-- ============================================================== -->
-    <!-- All Jquery -->
-    <!-- ============================================================== -->
+
     <script src="assets/libs/jquery/dist/jquery.min.js"></script>
-    <!-- Bootstrap tether Core JavaScript -->
     <script src="assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="dist/js/app-style-switcher.js"></script>
-    <!--Wave Effects -->
     <script src="dist/js/waves.js"></script>
-    <!--Menu sidebar -->
     <script src="dist/js/sidebarmenu.js"></script>
-    <!--Custom JavaScript -->
     <script src="dist/js/custom.js"></script>
 </body>
 

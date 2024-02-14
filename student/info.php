@@ -7,30 +7,22 @@
 <?php include 'includes/footer.php'?>
 
 </body>
-    <!-- ============================================================== -->
-    <!-- Preloader - style you can find in spinners.css -->
-    <!-- ============================================================== -->
+
     <div class="preloader">
         <div class="lds-ripple">
             <div class="lds-pos"></div>
             <div class="lds-pos"></div>
         </div>
     </div>
-    <!-- ============================================================== -->
-    <!-- Main wrapper - style you can find in pages.scss -->
-    <!-- ============================================================== -->
+
     <div id="main-wrapper" data-layout="vertical" data-navbarbg="skin5" data-sidebartype="full"
         data-sidebar-position="absolute" data-header-position="absolute" data-boxed-layout="full">
 
         <?php include 'includes/topbar.php'?>
         <?php include 'includes/sidebar.php'?>
 
-        <!-- Page wrapper  -->
-        <!-- ============================================================== -->
         <div class="page-wrapper">
-            <!-- ============================================================== -->
-            <!-- Bread crumb and right sidebar toggle -->
-            <!-- ============================================================== -->
+
             <div class="page-breadcrumb">
                 <div class="row align-items-center">
                     <div class="col-5">
@@ -46,17 +38,9 @@
                     </div>
                 </div>
             </div>
-            <!-- ============================================================== -->
-            <!-- End Bread crumb and right sidebar toggle -->
-            <!-- ============================================================== -->
-            <!-- ============================================================== -->
-            <!-- Container fluid  -->
-            <!-- ============================================================== -->
+
             <div class="container-fluid d-flex justify-content-evenly">
-                <!-- ============================================================== -->
-                <!-- Start Page Content -->
-                <!-- ============================================================== -->
-                <!-- Row -->
+
                 <div class="card text-white bg-dark mb-3" style="max-width: 20rem; border-radius:20px; max-height:25rem">
                     <img class="card-img-top img-fluid mx-auto pt-3" style="height:70%; width:70%;" src="https://mindnation.com/images/logo/mindnation-logo.png" alt="Card image">
                     <div class="card-body">
@@ -67,7 +51,7 @@
                  </div>
 
                 <div class="card text-white bg-dark d-flex" style="max-width: 20rem; border-radius:20px; max-height:50rem">
-                    <img class="card-img-top img-fluid mx-auto pt-3" style="height:70%; width:70%; border-radius:40px;" src="https://scontent.fmnl33-2.fna.fbcdn.net/v/t39.30808-6/346819010_217377047718069_537792244582835195_n.png?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFHv9c1Bo6Y6nWbf68ktqhF_R7DlcciPbD9HsOVxyI9sHIbdoTy7ThEonAQOVHx4imwHtNGDqx_gcJ8w4ifJ8AD&_nc_ohc=mMcVehPSeh8AX9R9yWC&_nc_oc=AQnQIdUxymbv3e313aVGeL8dpgQ1lersd83GwBzVLFs_n9iRtMWPpwCHBzrYjt7b1CU&_nc_ht=scontent.fmnl33-2.fna&oh=00_AfAP6SX_kebf8cvSoJoS2ux2l94RaR9DzYZ7c6SbXsy7ag&oe=65A00569" alt="Card image">
+                    <img class="card-img-top img-fluid mx-auto pt-3" style="height:70%; width:70%; border-radius:40px;" src="https://in-touch.org/wp-content/uploads/2023/02/cropped-intouchlogo1-2.png" alt="Card image">
                     <div class="card-body">
                       <h5 class="card-title">In Touch Community</h5>
                       <p class="card-text">In Touch Community’s Crisis Line Landline: +63 2 8893 1893
@@ -78,18 +62,10 @@
                       <a href="www.in-touch.org" class="btn btn-light d-flex justify-content-center" style="border-radius:10px;">Go</a>
                     </div>
                 </div>
-            <!-- ============================================================== -->
-            <!-- End Container fluid  -->
-            <!-- ============================================================== -->
+
             </div>
-        <!-- ============================================================== -->
-        <!-- End Page wrapper  -->
-        <!-- ============================================================== -->
+
     </div>
-    <!-- ============================================================== -->
-    <!-- End Wrapper -->
-    <!-- ============================================================== -->
-    <!-- ============================================================== -->
 
     <?php include 'includes/footer.php'?>  
 </html>

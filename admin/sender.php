@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Sender</title>
+        <title>Videocall Admin</title>
         <link rel="stylesheet" href="style.css">
         <link href="https://fonts.cdnfonts.com/css/helvetica-neue-5" rel="stylesheet">
     </head>
@@ -10,7 +10,7 @@
         <header style= "background-color: #484454; margin:0; padding:0; height:75px; margin-bottom:200px;">
             <div class="logo-title" style=" display:flex; padding-left: 5px;">
                 <img style=" height:50px; align-self: center; "src="https://i.ibb.co/nPCXSp5/uclogo.png" alt="uc_logo" title="University of Cordilleras">
-                <a href="index.php"><h1 style="font-weight: bold; color:white; padding-left: 20px; font-size:30px; font-family:'Helvetica Neue';">PathFinder</h1> <a>
+                <a style="text-decoration:none;" href="index.php"><h1 style="font-weight: bold; color:white; padding-left: 20px; font-size:30px; font-family:'Helvetica Neue';">PathFinder</h1> <a>
             </div>
         </header>
 

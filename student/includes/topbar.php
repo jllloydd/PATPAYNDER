@@ -7,7 +7,7 @@
                     <!-- ============================================================== -->
                     <!-- Logo -->
                     <!-- ============================================================== -->
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <!-- Logo icon -->
                         <b class="logo-icon d-flex justify-content-between">
                         <img src="https://i.ibb.co/nPCXSp5/uclogo.png" alt="homepage" style="height:50px; margin-right:10px;" />
